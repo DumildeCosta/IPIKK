@@ -24,3 +24,5 @@ Este repositório foi criado com o objetivo de reunir ideias, práticas e aprend
 ## Contato
 
 Caso tenha dúvidas ou sugestões, entre em contato conosco pelo e-mail oficial do IPIKK ou pelos nossos canais nas redes sociais.
+
+💻 **Criado com motivação por Dumilde Costa**
